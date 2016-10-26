@@ -1,7 +1,5 @@
 
 var WeatherService = $ = (function () {
-   // var locationURL = 'https://weathersync.herokuapp.com/ip';
-   // var weatherBaseURL = 'https://weathersync.herokuapp.com/weather/';
     var locationURL = 'http://ipinfo.io/json';
     var weatherBaseURL = 'http://localhost:8080/api/v1/weather/current/';
 
