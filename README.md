@@ -1,7 +1,7 @@
 # Example-Grails-Weather-App
   ## To get started run the following two commands.
-     1. ./gradlew tasks --all
-     2. grails run-app
+     1. - ./gradlew tasks --all
+     2. - grails run-app
   ## Using the application
      1. If you click "Get Weather" 
         with no zip code entered, the 
